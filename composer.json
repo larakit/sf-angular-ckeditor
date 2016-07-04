@@ -1,0 +1,20 @@
+{
+    "name": "larakit/sf-angular-ckeditor",
+    "description": "[Larakit] [staticfiles] sf-angular-ckeditor",
+    "license": "MIT",
+    "version": "1.0.0",
+    "require": {
+        "larakit/sf-ckeditor": "*"
+    },
+    "authors": [
+        {
+            "name": "Alexey Berdnikov",
+            "email": "aberdnikov@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
